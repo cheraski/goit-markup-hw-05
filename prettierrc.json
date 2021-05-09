@@ -15,5 +15,6 @@
   "requirePragma": false,
   "semi": false,
   "vueIndentScriptAndStyle": false,
-  "singleAttributePerLine": false
+  "singleAttributePerLine": false,
+  "htmlWhitespaceSensitifity": "ignore"
 }
